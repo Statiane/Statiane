@@ -14,6 +14,9 @@
     <img height="60" src="./assets/css.png" title="CSS" alt="CSS">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="60" src="./assets/javascript.png" title="JavaScript" alt="JavaScript">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="60" src="./assets/Sass.png" title="Sass" alt="Sass">
+
 </p>
 
 ## Contact :iphone:
