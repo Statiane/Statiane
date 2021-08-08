@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Tatiane.
 
--:mortar_board: Cursando Sistemas para Internet | Fatec Taquaritinga.
--💙 Interresse: Html,CSS,Boostrap,SASS,JavaScript.
+- :mortar_board: Cursando Sistemas para Internet | Fatec Taquaritinga.
+- 💙 Interresse: Html,CSS,Boostrap,SASS,JavaScript.
 
 ![Anurag's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Statiane&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Statiane&layout=compact&theme=tokyonight&langs_count=7)
